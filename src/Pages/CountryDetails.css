@@ -1,0 +1,12 @@
+.country-detail-wrapper{
+    display : flex;
+    gap : 100px;
+    padding-top: 100px;
+    color: rgb(128, 87, 0);
+}
+
+.country-detail{
+    padding-top: 40px;
+    font-size : 20px;
+}
+
